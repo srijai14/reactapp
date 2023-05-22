@@ -1,0 +1,69 @@
+.card{
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 50%;
+    box-shadow: 4px 2px 2px 2px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    border: none;
+  }
+  .card:hover{
+    border: 3px solid rgb(51, 134, 230);
+    box-shadow: none;
+  }
+  .col-md-4{
+    
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 10px;
+    
+  }
+  img{
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+  }
+  img:hover{
+    border: 3px solid rgb(51, 134, 230);
+
+  }
+  h5{
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+  }
+  h5:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(51, 134, 230);
+    text-decoration-thickness: 2px;
+  }
+  p.card-text{
+    text-align: left;
+  }
+  p.card-text:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(51, 134, 230);
+    text-decoration-thickness: 2px;
+  }
+  p.card-text1{
+    font-size: large;
+    text-align: left;
+    font-weight: bold;
+  }
+  p.card-text1:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(51, 134, 230);
+    text-decoration-thickness: 2px;
+  }
+  p.card-text1 > span{
+    color: #F8C000;
+    margin-left: 100px;
+  }
+  p.card-text1 > span:hover{
+    color: rgb(51, 134, 230);
+  }
+.calender{
+  margin-top: 20px;
+  width: 50%;
+    
+}

@@ -1,0 +1,126 @@
+/* .grid-item1{
+    background-color: #4E176C;
+    position: relative;
+    display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+    width: 300px;
+    height: 1600px;
+
+} */
+.items{
+    padding-top: 100px;
+}
+.celebration a{
+    color: #F8C000;
+    font-size: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  text-decoration: none;
+
+}  
+.celebration a:hover{
+  text-decoration: underline;
+  text-decoration-color: rgb(51, 134, 230);
+  text-decoration-style: 5px solid;
+}
+.celebration a > span{
+  padding-right: 10px;
+  margin-left: -30px;
+}
+.celebration a > span:hover{
+  color: rgb(51, 134, 230);
+}
+.challanges a{
+    color: aliceblue;
+    font-size: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  text-decoration: none;
+}  
+.challanges a:hover{
+  text-decoration: underline;
+  text-decoration-color: rgb(51, 134, 230);
+  text-decoration-style: 5px solid;
+}
+.challanges a > span{
+  padding-right: 10px;
+  margin-left: -30px;
+}
+.challanges a > span:hover{
+  color: rgb(51, 134, 230);
+}
+.feature a{
+    color: aliceblue;
+    font-size: 20px;
+  padding-right: 6px;
+  padding-left: 30px;
+  text-decoration: none;
+}  
+.feature a:hover{
+  text-decoration: underline;
+  text-decoration-color: rgb(51, 134, 230);
+  text-decoration-style: 5px solid;
+}
+.feature a > span{
+  padding-right: 10px;
+  margin-left: -30px;
+}
+.feature a > span:hover{
+  color: rgb(51, 134, 230);
+}
+
+
+.col-sm-2{
+  height: 1500px;
+  background-color:#4E176C;
+  
+}
+/* .col-sm-10{
+  
+} */
+.item{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: -10px;
+  padding-right: 600px;
+}
+.button{
+  background-color: white; 
+  color: black; 
+  border: 2px solid #F8C000;
+  border-radius: 5px;
+  padding: 2px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 30px;
+  cursor: pointer;
+  font-weight:500;
+}
+.button1{
+  background-color: #F8C000; 
+  color: black; 
+  border: 2px solid #F8C000;
+  border-radius: 5px;
+  padding: 2px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 30px;
+  cursor: pointer;
+  font-weight:500;
+}
+button.button:hover{
+  text-decoration: underline;
+  text-decoration-color: rgb(51, 134, 230);
+  text-decoration-thickness: 2px;
+}
+button.button1:hover{
+  text-decoration-line: underline;
+  text-decoration-color: rgb(51, 134, 230);
+  border: 2px solid rgb(51, 134, 230);
+  text-decoration-thickness: 2px;
+}
